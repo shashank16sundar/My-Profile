@@ -1,0 +1,155 @@
+body {
+  margin: 0;
+  background-color: #F9F9F9;
+  text-align: center;
+  font-family: Palatino, Palatino Linotype, Palatino LT STD, Book Antiqua, Georgia, serif;
+}
+
+h1 {
+  color: #7D5A50;
+  font-size: 5.625rem;
+  font-family: 'Satisfy', cursive;
+  margin: 40px auto 5px;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #2D4059;
+}
+
+h3 {
+  color: #541212;
+  font-size: 1.3rem;
+}
+
+p {
+  color: #383838;
+  font-size: 1.25rem;
+  font-family: 'Istok Web', sans-serif;
+}
+
+hr {
+  color: #7D5A50;
+  border-width: 5px;
+  border-style: dotted none none;
+  width: 5%;
+  margin: 100px auto 100px;
+}
+
+.profile-paragraph {
+  width: 30%;
+  margin: 0 auto 50px;
+}
+
+.profile-pic {
+  margin-top: 80px;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 150px;
+  background-color: #F5EDDC;
+}
+
+.skill-row {
+  margin: 100px auto 100px;
+  width: 50%;
+  line-height: 2;
+  text-align: left;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 100px;
+  right: 270.6px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250.6px;
+  margin-top: 10px;
+}
+
+.skill-1 {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  float: left;
+  margin-right: 40px;
+  margin-bottom: 10px;
+}
+
+.skill-2 {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  float: right;
+  margin-left: 40px;
+  margin-bottom: 10px;
+}
+
+.contact-me {
+  line-height: 1.5;
+  margin-bottom: 100px;
+}
+
+.btn {
+  margin-top: 100px;
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Istok Web', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.bottom-container {
+  padding-top: 100px;
+  background-color: /*#B1BCE6*/ #CFD2CF;
+  height: 170px;
+}
+
+.link1, .link2 {
+  margin-right: 100px;
+}
+
+.footer-paragraph {
+  font-size: 0.85rem;
+  margin-top: 50px;
+}
+
+.contact-paragraph {
+  margin-bottom: 50px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 20px;
+  color: #2D4059;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
